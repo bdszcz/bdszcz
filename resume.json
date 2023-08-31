@@ -20,4 +20,5 @@
     {"project_name":"G2、G2Plot","project_role":"核心开发者","project_time":"2019 - 至今","project_desc":"G2 是基于图形语法理论的可视化渲染引擎，G2Plot 是在 G2 基础上封装的开箱即用的统计可视化图表库","project_content":"AntV 可视化建设，赋能整个老虎和阿里集团统计可视化分析相关业务。负责 AntV G2、G2Plot、ThemeSet 主题构建器等开源项目的研发工作，同时服务老虎内部所有使用 G2 栈的用户，提供可视化解决方案和定制可视化的协助。"}
     ],
 	"workList":[],
-    "aboutme":{"aboutme_desc":"🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 老虎集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"},"theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
+    "aboutme":{"aboutme_desc":"🌱 多年超过20年的软件开发经历。专注在嵌入式应用、驱动开发和自动化测试领域\n1. 熟练使用C、python开发Linux软件和驱动程序，嵌入式bare-metal应用等。\n2. 有多年Windows驱动程序项目开发经验.\n 3. 熟练使用C/python/shell在研发过程中并行实现自动化测试脚本。\n4. 熟练使用docker等搭建研发相关web服务，包括gitlab, jenkins, redmine等。\n5. 熟练使用git、svn等版本管理工具管理代码。\n6. 完整经历多款产品软件开发全生命周期"},
+    "theme":{"color":"#2f5785","tagColor":"#8bc34a"}}
