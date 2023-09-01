@@ -10,13 +10,12 @@
 	"awardList":[{"award_info":"英语 CET4","award_time":"1998"}],
 	"workExpList":[
     {"company_name":"北京龙鼎源科技股份有限公司","department_name":"技术研发部","work_time":["2018.07",null],"work_desc":"1. 担任老虎高管决策和管理协同产品 “数据作战室” 的前端负责人\r\n2. 负责老虎敏捷 BI 产品 “DeepInsight” 的可视分析模块产品能力建设\n3. 数据可视化 AntV 团队核心成员，负责 G2、G2Plot 开源技术的建设"},
-    {"company_name":"美光半导体有限公司","department_name":"北京研发部门","work_time":["2015.10","2018.06"],"work_desc":"软件工程师。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"},
-    {"company_name":"北京雷索科技有限公司","department_name":"北京研发部门","work_time":["2015.10","2018.06"],"work_desc":"软件工程师。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"},
-
-    {"company_name":"威盛电子股份有限公司","department_name":"北京研发部门","work_time":["2015.10","2018.06"],"work_desc":"软件工程师。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"},
-    {"company_name":"北京华大电子设计有限公司","department_name":"北京研发部门","work_time":["2015.10","2018.06"],"work_desc":"软件工程师。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"},
-    {"company_name":"中星微电子有限公司","department_name":"北京研发部门","work_time":["2015.10","2018.06"],"work_desc":"软件工程师。使用 React 参与开发多类数据产品的研发工作，同时也参与大型 BI 产品的重构工作，有良好的编码习惯。"},
-    {"company_name":"北京雷索科技有限公司","department_name":"","work_time":["2014.06","2015.09"],"work_desc":"软件研发经理\n导航应用程序开发。\n来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"}
+    {"company_name":"美光半导体有限公司","department_name":"北京研发部门","work_time":["2015.10","2018.06"],"work_desc":"软件工程师。负责 SSD 主控芯片 Firmware 开发，硬件模拟器的实现，自动化测试系统以及系统联调\n 1. 基于 Linux 系统开发硬件模拟器，用于测试验证 Firmware\n 2. 开发基于 ARM M3/R4 的 NVMe 主控芯片 Firmware\n 3. 搭建开发和维护 CI 系统和相关自动化测试工具\n 4. 协调 Logic 和 Firmware 团队开发工作，负责系统联调。"},
+    {"company_name":"北京雷索科技有限公司","department_name":"研发部门","work_time":["2014.06","2015.10"],"work_desc":"研发经理。负责卫星导航系统和相关产品的设计、开发和维护\n 1. 基于 TI OMAP-L138 (ARM+DSP)芯片，开发维护导航接收机 Firmware 程序，包括 Bootloader, 单点定位解算程序，短基线航向角差分实时解算(RTK)程序。\n 2. 基于 Xilinx FPGA，实现 PCIe 接口高速数据采集解决方案，包括 FPGA Verilog 程序，DSP 嵌入式程序和上位机 Windows 驱动程序和 WPF 应用程序\n 3. 搭建自动化测试环境，开发相关自动化测试工具。\n 4. 基于 C# WPF 架构，开发 Windows 上位机图形界面程序。\n 5. 基于 QT/E 的嵌入式接收机 UI 控制程序 "},
+    {"company_name":"威盛电子股份有限公司","department_name":"北京研发部门","work_time":["2008.06","2014.06"],"work_desc":"高级软件工程师\n 1. 开发基于 SATA/PCIe 总线的 SSD/NVMe 控制芯片 Firmware 以及相关验证。\n 2. 开发基于 USB3.0 总线存储设备 Mass Storage Device (UASP) Windows 驱动程序。\n 3. 开发基于 PCIe 总线的 USB3.0 Host Controller 芯片 windows 驱动程序。\n 4. 开发 DOS 平台上 USB Host Controller 和 NVMe 接口卡芯片量产化验证和测试程序。\n 5. 开发基于 Linux 平台的 USB Host Controller 芯片驱动程序和自动化测试系统。\n 6. 开发基于嵌入式 Linux 平台的 USB Dongle 设备无线电视接收器(CMMB)的 Firmware。"},
+    {"company_name":"北京华大电子设计有限公司","department_name":"研发部门","work_time":["2007.06","2008.06"],"work_desc":"软件工程师。负责 Wi-Fi 芯片驱动程序、应用程序和 Firmware 的开发\n 1. 实现基于 ARM 内核 USB 总线的 Wi-Fi 控制芯片驱动程序、应用程序。\n 2. 开发基于 uCOS II 系统 Wi-Fi 控制芯片 Firmware "},
+    {"company_name":"中星微电子有限公司","department_name":"北京研发部门","work_time":["2005.06","2007.06"],"work_desc":"软件工程师。负责 USB camera 驱动程序 (Linux 和 Windows)的开发\n 1. 基于开源社区的 Camera Linux driver，开发和维护公司相关产品的 Linux 驱动程序。\n 2. 为客户定制相关产品 Linux 驱动程序。\n 3. 开发 USB2.0 总线的摄像头驱动程序(Windows vista and 7)。"},
+    {"company_name":"北京朗通环球有限公司","department_name":"","work_time":["2003.03","2005.03"],"work_desc":"软件工程师\n 负责 Wi-Fi 网卡驱动程序的开发和维护\n 负责 3G+Wi-Fi 路由器的开发和维护"}
     ],
 	"skillList":[],
 	"projectList":[
