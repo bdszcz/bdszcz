@@ -9,9 +9,9 @@
     ],
 	"awardList": [
 		{"award_info":"英语 CET4","award_time":"1998"},
-		{"award_info":"法律职业资格证书","award_time":"2012"},
-		{"award_info":"二级建造师（机电工程专业）","award_time":"2021"},
-		{"award_info":"一级建造师（机电工程专业）","award_time":"2022"}
+		{"award_info":"法律职业资格证书 编号 A20121101051200","award_time":"2012"},
+		{"award_info":"二级注册建造师（机电工程）注册编号 京211212179585","award_time":"2021.05"},
+		{"award_info":"一级注册建造师（机电工程）注册编号 京1112021202201373","award_time":"2022.01"}
 	],
 	"workExpList":[
     {"company_name":"北京龙鼎源科技股份有限公司",
