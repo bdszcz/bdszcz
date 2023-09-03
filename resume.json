@@ -2,7 +2,7 @@
     {"educationList":"教育--背景","workExpList":"工作经历","projectList":"项目经验","skillList":"个人技能","awardList":"更多信息","workList":"个人作品","aboutme":"个人评价"},
 	"avatar":{"src":"https://avatars.githubusercontent.com/u/25745891?v=4","hidden":false},
     "profile":
-    {"name":"bds","email":"bdszcz@163.com","mobile":"131xxxx7119","workExpYear":"20年"},
+    {"name":"bds","email":"bdszcz@163.com","mobile":"13146595544","workExpYear":"20年"},
     "educationList":[
     {"edu_time":["2000.09","2003.03"],"school":"北京理工大学","major":"通信与信息系统","academic_degree":"硕士研究生"},
     {"edu_time":["1996.09","2000.07"],"school":"北京理工大学","major":"电子工程系","academic_degree":"本科"}
@@ -63,7 +63,7 @@
 		"project_role":"研发骨干",
 		"project_time":"2015.10 - 2018.06",
 		"project_desc":"\nNVMe 主控芯片 Firmware 的开发",
-		"project_content":"1. 参与设计开发 Firmware 中前端 NVMe 协议实现和相关测试用例"
+		"project_content":"\n参与设计开发Firmware中前端MCU的NVMe协议实现和相关测试用例\n 1. 基于ARM-M3/R4多核处理器的bare-metal嵌入式程序实现NVMe协议\n 2. Host采用Python和C语言编写相关测试用例"
 	},
 	{"project_name":"NVMe 主控芯片 NVMe Compliance Test and PCIe Compliance Test",
 		"project_role":"主要参与人",
